@@ -1,5 +1,4 @@
 # Pizza-sales -- sql
-# Mysql
 ## Questions I have solved in this project 
 ## Basic:
 ### Retrieve the total number of orders placed.
